@@ -4,4 +4,5 @@ Proyecto de una API que consume datos de manera local. Este API trabaja consumie
 Se puede utilizar https://www.postman.com/ para probar las peticiones get, post y delete correctamente
 
 script: nodemon start
+
 http://localhost:3000/
